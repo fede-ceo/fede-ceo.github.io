@@ -1,18 +1,12 @@
----
-layout: page
-title: ""
----
-
-
-## 👋 About Me
+### 👋 About Me
 Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con interesse per cybersecurity e AI.
 
-## 🎓 Certificazioni Cisco
+### 🎓 Certificazioni Cisco
 - CCNA
 - [altre]
 
-## 💻 Formazione Online
+### 💻 Formazione Online
 - Corsi networking e cybersecurity (Udemy)
 
-## 🤖 AI & Tools
+### 🤖 AI & Tools
 - Utilizzo strumenti AI (Anthropic, LLM)
