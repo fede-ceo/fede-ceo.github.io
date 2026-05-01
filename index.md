@@ -52,3 +52,4 @@ Fuori dal mondo digitale, trovo equilibrio e ispirazione nel trekking, nell’ar
 - Claude 101 [🔗](https://verify.skilljar.com/c/hzeq7b6iqzb7)
 - Claude code 101 [🔗](https://verify.skilljar.com/c/nkxi4oyktbcy)
 - Introduction to Claude Cowork [🔗](https://verify.skilljar.com/c/7rq8wgdnd9ts)
+- Claude Code in Action [🔗](https://verify.skilljar.com/c/kpi8ik3gif2c)
