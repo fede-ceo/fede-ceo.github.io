@@ -39,9 +39,9 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 ---
 
 ### Corsi Udemy
-- Proxmox Per Comuni Mortali
 - Impara Linux: dalle basi alla certificazione LPI - Exam 101
 - Impara Linux: dalle basi alla certificazione LPI - Exam 102
+- Proxmox Per Comuni Mortali
 - Arch Linux Per Comuni Mortali
 - Docker Per Comuni Mortali
 
