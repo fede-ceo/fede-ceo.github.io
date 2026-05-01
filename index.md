@@ -13,17 +13,17 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 ---
 
 ### 🌐 Corsi Cisco
-- Cisco Networking Academy Learn-A-Thon 2026 — [Credenziale](https://www.credly.com/badges/04ecb49d-210b-4064-88e3-418049b2e22f/linked_in_profile)
-- Python Essentials 1 — [Credenziale]()
-- Operating Systems Basics — [Credenziale]()
-- Computer Hardware Basics — [Credenziale]()
-- Network Technician Career Path — [Credenziale]()
-- Industrial Networking Essentials — [Credenziale]()
-- Networking Basics — [Credenziale]()
-- Introduction to Modern AI — [Credenziale]()
-- Introduction to IoT — [Credenziale]()
-- Introduction to Cybersecurity — [Credenziale]()
-- Digital Safety and Security Awareness — [Credenziale]()
+- Cisco Networking Academy Learn-A-Thon 2026 — [Credenziale](https://www.credly.com/badges/04ecb49d-210b-4064-88e3-418049b2e22f/)
+- Python Essentials 1 — [Credenziale](https://www.credly.com/badges/c174ff8f-9fcb-4c2b-8fff-9fb8248f26a3/)
+- Operating Systems Basics — [Credenziale](https://www.credly.com/badges/85873bcb-b470-4629-b589-f6da5c4082a4/)
+- Computer Hardware Basics — [Credenziale](https://www.credly.com/badges/d52c80db-fd61-48b4-bbbb-a1d40d6e230d/)
+- Network Technician Career Path — [Credenziale](https://www.credly.com/badges/1e3b1e0b-74a0-4b97-b27e-751a5a43e369/)
+- Industrial Networking Essentials — [Credenziale](https://www.credly.com/badges/aac6f9d0-0420-4f78-841b-b40b43403b51/)
+- Networking Basics — [Credenziale](https://www.credly.com/badges/fc70d03c-abae-4aee-a9bd-d3754442453d/)
+- Introduction to Modern AI — [Credenziale](https://www.credly.com/badges/a3369d4f-b1ac-4a8a-a739-76f1a132ca32/)
+- Introduction to IoT — [Credenziale](https://www.credly.com/badges/8f5cdb92-5946-4cc4-8026-aa2155f15194/)
+- Introduction to Cybersecurity — [Credenziale](https://www.credly.com/badges/4231f6a0-d136-43c2-ab9a-a99144d95a6b/)
+- Digital Safety and Security Awareness — [Credenziale](https://www.credly.com/badges/59c54cfa-0486-401b-9a51-43ba0e938d15/)
 
 ---
 
