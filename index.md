@@ -12,36 +12,42 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 
 ---
 
-### 🎓 Certificazioni Cisco
-
-- CCNA (Cisco Certified Network Associate)
-- [Eventuali altre certificazioni]
-
----
-
-### 💻 Formazione Online
-
-Ho completato diversi corsi su piattaforme come Udemy, tra cui:
-
-- Networking e infrastrutture IT
-- Cybersecurity fundamentals
-- Sistemi e protocolli di rete
+### Corsi Cisco
+- Cisco Networking Academy Learn-A-Thon 2026
+- Python Essentials 1
+- Operating Systems Basics
+- Computer Hardware Basics
+- Network Technician Career Path
+- Industrial Networking Essentials
+- Networking Basics
+- Introduction to Modern AI
+- Introduction to IoT
+- Introduction to Cybersecurity
+- Digital Safety and Security Awareness
 
 ---
 
-### 🤖 AI & Tools
-
-Sto esplorando strumenti di intelligenza artificiale moderni, tra cui:
-
-- Modelli linguistici (LLM)
-- Strumenti AI per automazione e produttività
-- Sperimentazione con API e assistenti AI
+### Corsi Google
+- Google AI Essentials V1
+- Specializzazione Google AI Essentials
+- Introduction to AI
+- Stay Ahead of the AI Curve
+- Use AI Responsibly
+- Maximize Productivity With AI Tools
+- Discover the Art of Prompting
 
 ---
 
-### 📌 Focus attuale
+### Corsi Udemy
+- Proxmox Per Comuni Mortali
+- Impara Linux: dalle basi alla certificazione LPI - Exam 101
+- Impara Linux: dalle basi alla certificazione LPI - Exam 102
+- Arch Linux Per Comuni Mortali
+- Docker Per Comuni Mortali
 
-Attualmente sto lavorando su:
-- Miglioramento competenze di rete
-- Sicurezza informatica
-- Integrazione AI nei workflow tecnici
+---
+
+### Corsi Antrophic
+- Claude 101
+- Claude code 101
+- Introduction to Claude Cowork
