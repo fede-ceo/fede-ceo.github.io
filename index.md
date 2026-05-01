@@ -13,7 +13,7 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 ---
 
 ### Corsi Cisco
-- Cisco Networking Academy Learn-A-Thon 2026
+- Cisco Networking Academy Learn-A-Thon 2026 [link](https://www.credly.com/badges/04ecb49d-210b-4064-88e3-418049b2e22f/linked_in_profile)
 - Python Essentials 1
 - Operating Systems Basics
 - Computer Hardware Basics
